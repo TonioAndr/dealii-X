@@ -18,4 +18,5 @@
 	url = git@github.com:BRAINIACS-Group/ExaBrain.git
 [submodule "applications/lungs/exadg"]
 	path = applications/lungs/exadg
-	url = git@github.com:exadg/exadg.git
+	url = git@github.com:temuer/exadg.git
+	branch = alveolar-model
